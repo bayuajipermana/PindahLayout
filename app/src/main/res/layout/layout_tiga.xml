@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/halU3"
+        android:layout_width="match_parent"
+        android:layout_height="128dp"
+        android:text="Halaman 3"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/pindah13"
+        style="@android:style/Widget.Material.Light.Button.Borderless.Small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/editbox_dropdown_dark_frame"
+        android:backgroundTint="?attr/colorPrimary"
+        android:text="PINDAH HALAMAN 2"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/pindah14"
+        style="@android:style/Widget.Material.Light.Button.Borderless.Small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/editbox_dropdown_dark_frame"
+        android:backgroundTint="?attr/colorPrimary"
+        android:text="PINDAH HALAMAN 1"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/pindah15"
+        style="@android:style/Widget.Material.Light.Button.Borderless.Small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/editbox_dropdown_dark_frame"
+        android:backgroundTint="?attr/colorPrimary"
+        android:text="PINDAH HALAMAN UTAMA"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/pindah16"
+        style="@android:style/Widget.Material.Light.Button.Borderless.Small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/editbox_dropdown_dark_frame"
+        android:backgroundTint="?attr/colorPrimary"
+        android:text="PINDAH HALAMAN 4"
+        android:textColor="@color/white" />
+
+</LinearLayout>
